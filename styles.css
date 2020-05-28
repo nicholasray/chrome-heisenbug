@@ -1,6 +1,5 @@
 .sidebar {
   transition: transform 2000ms ease-out, opacity 2000ms ease-out, visibility 2000ms ease-out;
-
   background: red;
   width: 500px;
   height: 500px;
